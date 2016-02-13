@@ -1,0 +1,24 @@
+html {
+  box-sizing: border-box;
+  background-color: #dbd6d0;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.hnav {
+  color: #efeee9;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+  display: inline-block;
+}
+
+h1 {
+  color: #f2f2f2
+  font-family: "Bevan", cursive;
+  text-align: center;
+}
